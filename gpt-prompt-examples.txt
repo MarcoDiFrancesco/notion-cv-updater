@@ -1,17 +1,16 @@
 ### CV Description. Example 1.
-I have 4 years of experience in data analytics and machine learning. In my career, I have worked on numerous projects involving data preparation,
-exploration, and ML modeling. At FBK, I focused on developing and deploying ML products in an interdisciplinary team using the Azure cloud
-platform, on projects related to recommendation systems, forecasting models, and trend analysis models. Meanwhile, in the last year, I worked
-with a data engineering team on the ”Big Data” project, handling a large dataset.
 
+I have 4 years of experience in data analytics and machine learning. In my career, I have worked on numerous projects involving data preparation, exploration, and ML modeling. At FBK, I focused on developing and deploying ML products in an interdisciplinary team using the Azure cloud platform, on projects related to recommendation systems, forecasting models, and trend analysis models. Meanwhile, in the last year, I worked with a data engineering team on the ”Big Data” project, handling a large dataset.
 
 ### Job description. Example 1.
-## About the job
+
 We’re a leading online reviews platform, free and open to all. Our mission is to be a universal symbol of trust. We are well on our way — but there’s still an exciting journey ahead of us. Do you want to join us at the heart of trust?
 From reviews to user behaviours to internal systems, at Trustpilot, we truly have big data. And, in our B2B Applied AI team, we’re focused on leveraging AI and ML to transform data into value and create engaging products features to improve the experience of our users. That means you can empower product innovation to help our businesses build Trust and growth and Improve the experiences with Trustpilot.
 We are seeking a skilled Data Scientist to join our B2B Applied AI team to develop intelligent, data-driven product features that serve our Business Application. You will collaborate closely with a cross-functional team of software developers, product managers, designers, data analytics and ML engineers **to develop, deploy and maintain innovative AI/ML models at scale**. You will be part of a unique journey of creating our B2B Digital Led growth and you will have the opportunity to collaborate widely across the business including our Commercial, Digital Sales, and Data Science teams within B2C and GTM contexts.
 You will have proven experience in developing and deploying AI/ML models or high academic results if you are a recent graduate. **You have a solid technical background, with hands-on ability in all stages of data preparation, exploration, and modeling.** You must have an adaptable product mindset and knowledge of the interface between data science and engineering. You will have the ability to develop data solutions, engage stakeholders, and clearly articulate the impact of your work. **Experience putting solutions into production within an interdisciplinary team is a big plus**, and it will be ideal if you already have experience with B2B SaaS products personalisation.
-**What You’ll Be Doing**
+
+What You’ll Be Doing
+
 - You will be involved in delivering some of our most exciting Data Science projects aimed at improving our B2B SaaS product: from prediction to ranking, natural language processing to search, and recommendation systems to content generation and personalisation
 - Great opportunity to make a real product impact by applying the innovative in AI and ML.
 - You will deliver the Data Science component of key strategic initiatives including owning, **maintaining and deploying production-ready ML/AI models**, and analysing data to establish the scope and impact of your work
@@ -19,7 +18,9 @@ You will have proven experience in developing and deploying AI/ML models or high
 - You will engage with both technical and non-technical stakeholders & will translate product requirements into Data Science deliverables
 - The opportunity to work with leading data engineering technologies including Google Vertex AI tools, Google BigQuery and AWS, and with leading Data Science tools and emerging technologies for model building and deployment
 - Opportunities to develop your career in a friendly, diverse, innovative, international team and workplace
-**Who You Are**
+
+Who You Are
+
 - Experience with analytical and quantitative problem solving using advanced **statistical techniques and machine learning methods**, e.g. **sentiment** and topic modelling, **recommendation systems**, content generation, **forecasting & trend analysis**
 - Experience in building and deploying **production-ready ML models at scale**, and solid **data engineering skills** (e.g. experience with cloud technologies - we use GCP but experience with AWS or Azure will also be fine)
 - Ability in **Python and SQL** for data manipulation, modelling and scripting.
@@ -27,52 +28,25 @@ You will have proven experience in developing and deploying AI/ML models or high
 - Knowledge of data pipelining and **prior experience of cloud-based ML model deployments**
 - Great communication skills - both with technical colleagues and with business stakeholders
 - Proven technical experience in a Data Science role, in the technology sector or in a technical consultancy, or a **high GPA** in a relevant field of study (for recent graduates)
-**What’s In It For You**
-- A range of flexible working options to dedicate time to what matters to you
-- Competitive compensation package + bonus
-- 25 days holiday per year, with an extra 5 days holiday allocated after your 1 year anniversary (prorated)
-- Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community
-- Rich learning and development opportunities supported through the Trustpilot Academy, LinkedIn Learning and Blinkist
-- Comprehensive health package, pension and full access to Headspace, a popular mindfulness app to promote positive mental health
-- Paid parental leave
-- Newly renovated central office with a laid back vibe and constant buzz of different languages being spoken everywhere you go It’s complete with a coffee bar, canteen and table tennis and has a wide variety of refreshments available - you can opt in for breakfast and lunch at an affordable price
-- Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities and team socials
-- Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go karting, cooking classes and escape rooms
-- Employee discounts to restaurants and shops
-- Tax Free Travel (DSB)
-**Still not sure?**
-We are Open to All, which means we want everyone to feel like they can see themselves at Trustpilot. We're keen to hear about your experiences as well as how you can help to create a fantastic culture for our amazing Trusties. So, don't worry if you're looking at this job description and feel like you don't meet all the requirements, we'd still really like to hear from you!
-**About Trustpilot**
-At Trustpilot, we’re passionate about our mission to offer a free and open to all review platform, built on collaboration. For consumers, we’re a place to connect with and influence businesses. For companies, we’re a platform for progress; a way to improve and innovate by engaging and collaborating with consumers.
-We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be a tangible symbol of trust in an ever-changing world. With vibrant office locations all around the world and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas.
-Our purpose is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense.
-A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.
-Join us at the heart of trust.
-*Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity, national origin, religion, gender identity or expression, sexual orientation, neurodiversity, disability, age, parental or veteran status. Together, we are the heart of trust.*
-*Trustpilot is a global company and our data practices are designed to ensure that your personally identifiable information is appropriately protected. Please note that your personal information will be transferred, accessed and stored globally as necessary for the uses and disclosures stated in our*
-[*Privacy Policy.*](https://assets.ctfassets.net/b7g9mrbfayuu/3XVnBIb9fwbVemyPsovTVv/848c2ab03ee552f87f87dfba620ebbe6/data-privacy-candidates-2024.pdf)
-
 
 ### CV Description. Example 2.
-I have four years of experience in data analytics and machine learning, with projects tangentially related to the financial sector. My current special‑
-ization in Online Machine Learning, creating algorithms for continuously evolving data, is highly valued in a context where data is rapidly changing,
-especially in models for time‑series forecasting finantial and banking trends. Moreover, my technical background is supported by experience in
-deploying scalable machine learning models, which makes me a good fit for contributing to Pleo’s data science initiatives.
 
+I have four years of experience in data analytics and machine learning, with projects tangentially related to the financial sector. My current specialization in Online Machine Learning, creating algorithms for continuously evolving data, is highly valued in a context where data is rapidly changing, especially in models for time‑series forecasting finantial and banking trends. Moreover, my technical background is supported by experience in deploying scalable machine learning models, which makes me a good fit for contributing to Pleo’s data science initiatives.
 
 ### Job description. Example 2.
+
 At our core, we stand for delegated company spending. To many, this may not sound thrilling, yet it's a fundamental shift for ourselves and our customers. We're challenging the outdated norms by trusting employees to make purchases on the company's behalf - no more expense reports or out-of-pocket spending. This puts trust in employees so that they can buy what they need when they need it. Future of work stuff, you know?
 But let us introduce you to the domain this role will be part of:
-So What's **Data & Analytics At Pleo** Like?
-```
+So What's Data & Analytics At Pleo Like?
+
 We are a community of 45+ talented data & analytics professionals working from more than 10 different locations worldwide with backgrounds in data analytics, analytics engineering, data engineering, and data science.
 We use **SQL (BigQuery), Python, and Jupyter for ML model development** and orchestration, model data with DBT, store it in BigQuery, present insights through Looker, and incorporate data from diverse sources such as internal systems and platforms like Segment.
 We are united by a shared vision to stop the guessing game and unlock growth for Pleo.
 We deeply care about data culture, strategy, and empowerment of our stakeholders.
 We deal with a huge variety of data and insights spanning the entire business, from the detailed inner workings of the Pleo platform to web & app metrics, CRM details, **financial and banking records**, human resource information, and everything else needed to fuel Pleo’s strategy in a data-inspired manner.
-```
+
 What Great Looks Like In This Role
-```
+
 Be part of the team that provides company-wide trusted insights on our products and features, focusing on **predictive and prescriptive insights**
 Pave the way for Data Science at Pleo; establish methodologies for building **machine learning (ML)** models that help us deliver exceptional experiences to our customers and drive our revenue and user growth
 You autonomously tackle complex problems with a solution-driven and pragmatic approach.
@@ -80,9 +54,9 @@ You **translate business problems into technical challenges** and take ownership
 You effectively collaborate with product & engineering teams, and enable these stakeholders to develop data-inspired products and solutions
 Demonstrate innovative thinking by exploring diverse data sources (internal and external) to improve the predictive power of your models
 You are an ambassador for excellence within the Data & Analytics community, you **lead by example, share your knowledge, and inspire others**.
-```
+
 Your Responsibilities
-```
+
 Collaborate closely with stakeholders, including product managers and business leaders, to **understand their objectives and requirements**. Lead the scoping, design, and development phases to create tailored, data-inspired solutions.
 Conduct quantitative research to inform product strategy and identify opportunities for improvement. **Devise learning methods, including experiments, to test hypotheses and enhance our understanding of user behavior.**
 Understand, identify, and leverage data sources across Pleo, encompassing both internal data and external data that can be utilized for building models
@@ -90,26 +64,21 @@ Understand, identify, and leverage data sources across Pleo, encompassing both i
 Translate complex data into actionable insights and effectively communicate technical work and findings to diverse audiences, ranging from product managers to leadership teams.
 Provide mentorship and guidance to other data & analytics team members, fostering a collaborative and learning-oriented environment within the data & analytics team.
 Stay abreast of advancements in ML and artificial intelligence, exploring opportunities to implement cutting-edge technologies in product development.
-```
+
 Your Colleagues Say You:
-```
+
 Are self-sufficient, solution-driven, and love to see the impact of your work and team
 Have excellent hands-on knowledge of **SQL + Python**/R and experience with more **advanced analytics** topics such as **cohort and regression analysis**
 Expertise in applying data science within product teams to optimize features and user experiences. **Demonstrate a track record of designing automated solutions with ML**, particularly in the context of **in-product decisions that align with business goals**, ideally within the financial services industry.
 You have experience and comprehensive **knowledge in machine learning (ML),** covering a range of algorithms and techniques, including but not limited to the **selection of appropriate models, tuning of hyperparameters, and rigorous evaluation of model performance**. Are familiar with at least one cloud platform (GCP/AWS/**Azure**) and acquainted with ML Ops practices
 Take proactive ownership, exhibit adaptability in problem-solving, and demonstrate authentic leadership with a commitment to radical candor.
-```
-
 
 ### CV Description. Example 3.
-I have 4 years of experience in data analytics and machine learning. In my career, I have worked on numerous projects involving data preparation,
-exploration, and ML modeling. At FBK, I focused on developing, maintaining, and deploying production‑ready ML models using the Azure cloud
-platform. The tasks I worked on included anomaly detection, classification, and deep learning models for language problems. Some projects
-involved building and fine‑tuning language models for sequence modeling, anomaly detection, collaborative filtering, and user segmentation.
 
+I have 4 years of experience in data analytics and machine learning. In my career, I have worked on numerous projects involving data preparation, exploration, and ML modeling. At FBK, I focused on developing, maintaining, and deploying production‑ready ML models using the Azure cloud platform. The tasks I worked on included anomaly detection, classification, and deep learning models for language problems. Some projects involved building and fine‑tuning language models for sequence modeling, anomaly detection, collaborative filtering, and user segmentation.
 
 ### Job description. Example 3.
-## About the job
+
 We’re a leading online reviews platform, free and open to all. Our mission is to be a universal symbol of trust. We are well on our way — but there’s still an exciting journey ahead of us. Do you want to join us at the heart of trust?
 We are looking for several **Associate Data Scientists** to join our Trust and B2C teams in Copenhagen. You and your team will work within a focus area to **develop, deploy, and maintain innovative models at scale**, alongside a cross-functional team of software developers, product managers, ML engineers, and designers. You will have the opportunity to collaborate widely across the business with our Technology and Product teams and also stakeholders in Legal and Platform Integrity.
 Trust
@@ -118,6 +87,7 @@ B2C
 The B2C team focuses on delivering the best user experience and value to our consumers—the people who read and write reviews on trustpilot.com. This area is filled with opportunities for innovation and impactful features. These include anything from facilitating the easy evaluation and comparison of businesses through AI-powered summaries of review texts, to assisting consumers discover new companies with personalized recommendations, to empowering them to write higher-quality reviews by suggesting contextually relevant topics.
 To succeed in this role, you should have proven experience in developing and deploying ML models, and/or a proven history of academic achievements. You need a strong technical foundation and hands-on experience in all stages of data preparation, exploration, and modeling. An adaptable mindset and understanding of the interface between Applied AI and engineering are essential as you will be working in cross-disciplinary teams. Experience with deploying solutions into production will be valuable, as you will be responsible for implementing end-to-end solutions—from data preprocessing to serving predictions.
 What You Will Do
+
 - Be hands-on in delivering the Applied AI / Data Science component of key strategic projects for our Trust and B2C initiatives, from **building and fine-tuning language models to sequence modeling, anomaly detection, collaborative filtering, user segmentation**, etc.
 - **Develop, maintain, and deploy production-ready ML models**, with tooling support from ML engineers
 - Engage with both technical and non-technical stakeholders
@@ -134,20 +104,18 @@ Who You Are
 - Great communication skills - both with technical colleagues and with business stakeholders
 - Proven technical experience in a Data Science role, preferably in the technology sector or in a technical consultancy, and/or a high GPA in a relevant field of study (for recent graduates)
 
-
 ### CV Description. Example 4.
-I have 4 years of experience in data analysis and data mining in Python. During my carrer I have worked with dashboarding in Python, forecasting,
-doing test of statistical significance, and A/B testing in a business context. I worked with large data sets and have years of expererience in dash‑
-boarding in Python and processing data in SQL. Currently I don’t have projects with Looker or Tableau, but I think they would be easy to catch up
-with my experience. Overall, I’m a good comunicator and love to spend time crafting the best way to communicate complex insights.
 
+I have 4 years of experience in data analysis and data mining in Python. During my carrer I have worked with dashboarding in Python, forecasting, doing test of statistical significance, and A/B testing in a business context. I worked with large data sets and have years of expererience in dashboarding in Python and processing data in SQL. Currently I don’t have projects with Looker or Tableau, but I think they would be easy to catch up with my experience. Overall, I’m a good comunicator and love to spend time crafting the best way to communicate complex insights.
 
 ### Job description. Example 4.
+
 Do you want to be part of a leading Nordic sustainability scaleup whilst contributing to the global corporate sustainability transition? Position Green is in a strong scaleup phase and we are looking for new amazing talents to join our Product Team.
 Be part of creating a sustainable future – Lead, don’t follow.Position Green is a pioneering Nordic scale-up that pairs leading tech talent with the brightest minds in sustainability. And you can play a key role in our mission – to revolutionise how companies do sustainable business.
 It’s who we are that makes it work. For us, it’s not just about ticking boxes, it’s about igniting passions and inspiring meaningful change. We engage directly with customers worldwide to simplify the complex ESG landscape and spearhead change that impacts people, planet and their bottom line. By developing new products and solutions inspired by their real needs and ambitions, we make it easier to make a difference – and to lead the way.
 We are excited to offer the opportunity to be part of our journey in the role of Data Scientist, working in a discipline with a crucial impact on Position Green’s business growth.
 As a Data Scientist, you will mainly:
+
 - Handle the data and analysis of our product portfolio, including our PLG motion, adoption, engagement, retention and other product usage metrics.
 - Create and improve **forecasting models** for our PLG motion, including adoption, engagement, retention and other product usage metrics.
 - Collaborate with the product teams to understand business and customer needs.
@@ -183,39 +151,34 @@ Tools used
 - **Notion**
 - **Python**
 
-
 ### CV Description. Example 5.
-My journey in data analytics and machine learning started 4 years ago. In my career, I have worked on numerous R&D projects involving data
-preparation, exploration, and ML modeling; in topics concerining NLP and predicting modelling. At FBK, I focused on developing, refining, and
-validating predictive models, with deployment and data versioning on the Azure cloud platform.
 
+My journey in data analytics and machine learning started 4 years ago. In my career, I have worked on numerous R&D projects involving data preparation, exploration, and ML modeling; in topics concerining NLP and predicting modelling. At FBK, I focused on developing, refining, and validating predictive models, with deployment and data versioning on the Azure cloud platform.
 
 ### Job description. Example 5.
-We believe businesses around the world should have access to open data, helping them to better understand their market and competition - and how it will evolve. Simply put, leverage prescriptive intelligence and gain foresight by answering the questions that gives competitive edge!
-Our vision is to answer questions in every industry, but we have started with e-commerce and real-estate where we collect the right data to forecast & predict answers to questions like this:
-- Which company is about to move in within the next 12 months?
-- Which companies will grow?
-- How many web shops deliver cosmetics in different countries?
-- What is the average delivery time for all web shops?
-- How can we reduce CO2 footprint?
-We are a start-up/scale-up company that have already proven that our platform is attractive on the market. We have clients in 10 different markets throughout Europe. Our vision is bold and we are fully committed to reaching it, no matter what.
-Tembi is developed by an internal team that poses all the competencies involved in building data driven SaaS web products. We have data engineers, data scientists, data analysts, sw engineers, UI/UX designers, front end developers and agile coaches. We are committed to our company values to innovate, collaborate and support each other. We celebrate our wins and take every opportunity there is to improve and to learn new things. We believe in agile ways of working and apply a start-up mentality in everything we do.
+
 We're in the market for a Machine Learning Engineer who's comfortable navigating the intricacies of predictive models and the broader world of machine learning. If you've got an itch for solving varied challenges—from **predicting company movement patterns** to **deciphering their growth trajectories**, and **extracting data from text using NLP**—well, you might just be the person we're envisioning.
 Being part of our tight-knit team means every day is unique. Some days you'll be deep-diving into data, making sense of patterns and anomalies. On others, you'll be brainstorming with colleagues, ensuring that our predictive models are in line with the latest trends and customer needs. Agility is our mantra, and your commitment to swift, quality deliveries without cutting corners will resonate deeply with our ethos.
 Given the pivotal nature of this role, there's ample room for you to become a subject-matter expert. With this comes significant responsibility, as your insights will shape the models and analyses we present to our clients. We’re passionate about individuals with a growth mindset—those who view challenges as intriguing puzzles rather than roadblocks. Our team is on a rapid trajectory of growth and evolution, and adaptability is key. You might be consulted or even asked to help with coding our frontend or creating a special report for clients, we need people who don’t get scared when asked to try new things.
-### **Your main responsibilities:**
+
+Your main responsibilities:
+
 - Engage in data science projects, predominantly harnessing Python, and working within platforms like **Databricks**.
 - Use **many different machine learning techniques** to solve real-world problems. We have a lot of data and we want to extract meaningful insights from that data.
 - **Develop, refine, and validate predictive models**, generally creating sound and long-lasting **model pipelines**
 - Make sure our ML models are in production
 - Communicate complex model performances in an understandable and actionable format for our clients, we do this through visualization, communication or even interpretability methods such as SHAP values.
-### **Other aspects of the role:**
+
+Other aspects of the role:
+
 - Explore and improve our current setup—be it through introducing new tools, refining methodologies, or streamlining processes.
 - Collaborate closely with our tech stack, ensuring familiarity with tools like **mlflow** and practices like **data versioning**.
 - Continually research cutting-edge technologies, seeding innovation and continuous improvement within our team.
 - Facilitate the translation of model results into actionable insights, ensuring our customers can leverage them effectively.
 - Taking the team on a company outing to your favourite passtime, golf, climbing, biking, skeet shooting, or something completely different.
-### **Qualifications to shine in this role:**
+
+Qualifications to shine in this role:
+
 - Strong foundation in **Python**, and familiarity with platforms like **Databricks** .
 - Proficiency in **predictive modeling, time-series analysis**, and other relevant data science techniques, using libraries such as **PyTorch**, Tensorflow or **Spark** MLlib.
 - Experience with tools like mlflow and practices such as data versioning.
@@ -224,6 +187,3 @@ Given the pivotal nature of this role, there's ample room for you to become a su
 - Proven track record of **model validation, interpretation, and result presentation** for end-users.
 - Previous experience in building or contributing to a product is a significant advantage, but not a strict necessity.
 Dive into the data-driven world with us, harnessing the power of predictive analytics to shape the future of businesses. We eagerly await your expertise and fresh perspectives.
-
-
-

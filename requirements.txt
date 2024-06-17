@@ -1,4 +1,3 @@
-notion-client
-python-dotenv
-openai
-nb-clean
+notion-client==2.2.1
+python-dotenv==1.0.1
+openai==1.34.0
